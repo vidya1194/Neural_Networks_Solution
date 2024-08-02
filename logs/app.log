@@ -1,0 +1,9 @@
+2024-08-01 19:51:59,655:INFO:Starting Neural Networks Solution
+2024-08-01 19:51:59,671:INFO:Data loaded
+2024-08-01 19:51:59,671:INFO:Feature Engineering Completed
+2024-08-01 19:51:59,671:INFO:Data Partitioned
+2024-08-01 19:53:18,179:INFO:grid.best_score_: 0.8779999999999999
+2024-08-01 19:53:18,179:INFO:grid.best_params_: {'batch_size': 20, 'hidden_layer_sizes': (2,), 'max_iter': 100}
+2024-08-01 19:53:18,182:INFO:MLPClassifier Accuracy: 0.95
+2024-08-01 19:53:18,182:INFO:MLPClassifier Confusion Matrix: [[62  3]
+ [ 2 33]]
